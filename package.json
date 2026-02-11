@@ -5,9 +5,7 @@
   "private": true,
   "scripts": {
     "start": "node index.js",
-    "install": "node -v",
-    "configure:git": "git remote add origin \"$URL\" 2>/dev/null || git remote set-url origin \"$URL\"",
-    "deploy:github": "git push origin main"
+    "install": "node -v"
   },
   "dependencies": {
     "express": "^5.2.1"
