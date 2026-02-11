@@ -1,0 +1,7 @@
+{
+  "title": "Docker and Node",
+  "description": "Docker, Node",
+  "iconUrl": "https://raw.githubusercontent.com/codesandbox/sandbox-templates/main/docker/.codesandbox/icon.png",
+  "tags": ["docker", "devcontainer", "node", "containers"],
+  "published": true
+}
